@@ -6,6 +6,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class WalletDetailsDTO {
+
     private String id;
     private String publicName;
     private String assetCode;
